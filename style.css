@@ -1,0 +1,23 @@
+.proj{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+.Lala{
+    border: 5px solid white;
+    margin-top: 10px;
+    height: 400px;
+}
+h1{
+    font-family:'Libre Baskerville', serif;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+}
+p{
+    color: white;
+    background-color: black;
+}
+html{
+    background-color: black;
+}
